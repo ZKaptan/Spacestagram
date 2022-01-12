@@ -6,4 +6,4 @@ This is my submission for the Spacestagram: Image-sharing from the final frontie
 
 ## Technologies used
 
-For this project, I used React as my frontend framework and Chakra UI to style my components.
+For this project, I used React as my frontend framework and Chakra UI to style my components. The app can be accessed [here](https://zkaptan.github.io/Spacestagram/). I hope you enjoy!
