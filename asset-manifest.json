@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ZKaptan/Spacestagram/static/css/main.e6c13ad2.css",
+    "main.js": "/ZKaptan/Spacestagram/static/js/main.8fd6f0b8.js",
+    "index.html": "/ZKaptan/Spacestagram/index.html",
+    "main.e6c13ad2.css.map": "/ZKaptan/Spacestagram/static/css/main.e6c13ad2.css.map",
+    "main.8fd6f0b8.js.map": "/ZKaptan/Spacestagram/static/js/main.8fd6f0b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8fd6f0b8.js"
+  ]
+}
