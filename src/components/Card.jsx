@@ -32,7 +32,13 @@ const Card = ({ data }) => {
 				overflow={"hidden"}
 				h="100%"
 			>
-				<Image w={"full"} h="250px" src={data.url} objectFit={"cover"} />
+				<Image
+					w={"full"}
+					h="250px"
+					src={data.url}
+					alt="Nasa Image"
+					objectFit={"cover"}
+				/>
 
 				<Box p={6}>
 					<Stack spacing={2} align={"start"} mb={1}>
